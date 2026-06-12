@@ -49,22 +49,3 @@ A modular 4-bit Arithmetic Logic Unit (ALU) designed and implemented in Verilog 
 * Xilinx Vivado
 * Vivado Simulator (xsim)
 * Static Timing Analysis (STA)
-
-## Screenshots
-
-### RTL Schematic
-
-(Add image here)
-
-### Simulation Waveforms
-
-(Add image here)
-
-### Timing Analysis
-
-(Add image here)
-
-## Author
-
-Amitabha Mukhopadhyay
-Electrical Engineering, IIEST Shibpur
